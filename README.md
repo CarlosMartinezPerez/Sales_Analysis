@@ -1,2 +1,6 @@
 # Sales_Analysis
-Gráfico de vendas por cidade e por produto
+### Gráfico de vendas por cidade e por produto
+
+Referência: adaptado de [Synapse Data Science](https://www.youtube.com/watch?v=g-Ifz8IRJ2Q)
+
+
